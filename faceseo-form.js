@@ -139,7 +139,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="Cảm ơn Quý Khách đã đăng ký. Quang sẽ liên hệ lại Quý Khách trong thời gian sớm nhất.";
+	window.location="https://canhobencatbinhduong.blogspot.com/p/cam-on-quy-khach-gui-thong-tin.html";
 var linkhientai=window.location;
 if(getCookie(linkhientai)){
                 	
